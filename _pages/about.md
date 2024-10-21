@@ -15,6 +15,6 @@ In November 2023, I gave up scientific research because I could not find the val
 
 After sorting out my personal interest, I have done several internships. You can find my CV here: [Yi He's Curriculum Vitae](../assets/Yi_He_CV.pdf).
 
-I am an optimistic girl. My mbti is infp. My hobbies include word puzzles, watching TV series and movies. Welcome to contact me!
+My hobbies include word puzzles, watching TV series and movies. Welcome to contact me!
 
-[Email](mailto:hey1@ruc.edu.cn) / [Wechat:heyhey1hey2]
+[Email:hey1@ruc.edu.cn](mailto:hey1@ruc.edu.cn) / Wechat: heyhey1hey2
