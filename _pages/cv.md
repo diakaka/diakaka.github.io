@@ -19,14 +19,14 @@ Education
 
 Internships
 ======
-
-#### Alibaba International Digital Commerce Group 
+**<span style="color:blue">Alibaba International Digital Commerce Group</span>**
 _Strategy Intern, July 2024 – November 2024_
 * E-commerce segment: Studied the European retail market and the status of major players, and summarized the key areas of AliExpress’s development. Tracked sales and traffic data of major competitors like Temu & Shein.
 * AI segment: Studied AI search product, the development prospects and current players through data collection, user
 interviews and products experiences. Explored possible ways of AI commercial realization.
 
-#### CICC Capital Management (CCM) 
+
+**<span style="color:blue">CICC Capital Management (CCM)</span>**
 _PE investment Intern, February 2024 – June 2024_
 * Fund raising and investment: Participated in the project report of an FPGA project; Wrote a preliminary analysis report
 of a new energy off-highway mining car electric drive project, analyzed company profile, industry opportunities and gave
@@ -35,14 +35,15 @@ highlights of reserve projects.
 * Project management: Managed system filling; Tracked invested projects, calculated project profit and other financial
 indicators.
 
-#### CICC Research Department
+**<span style="color:blue">CICC Research Department</span>**
 _Research Intern, November 2023 - February 2024_
 * Software segment: completed the initial coverage report of Beisen, summarized the company’s overview, industry
 development, advantages and growth strategies; completed the initial coverage report of an industrial Internet platform
 company (ZKH).
 * Education segment: tracked the dynamics of New Oriental, split its retained business and new business income.
 
-#### Founder Securities Research Department
+
+**<span style="color:blue">Founder Securities Research Department</span>**
 _Research Intern, July 2023 - October 2023:_
 * Report output: followed up data performance of beauty cosmetics company Proya; summarized strategies of it to break
 through development ceiling, which concludes carrying out brand matrix, marking overseas leaders, new growth curve brought
@@ -51,7 +52,7 @@ by its sub-brands.
 industrial chain of fan economy is forming a mature business model with multiple cash modes with the continuous
 consolidation of fan organizations.
 
-#### Guotai Junan Securities Research Department
+**<span style="color:blue">Guotai Junan Securities Research Department</span>**
 _Research Intern, May 2023 - July 2023_ 
 * Research support: Tracked the dynamics of commercial banks in China and analyzed the financial data of them; Wrote an
 initial coverage report for Chongqing Rural Commercial Bank under the guidance of the analyst
