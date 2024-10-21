@@ -13,4 +13,8 @@ I've done some reseach work in corporate finance and economics, including some r
 
 In November 2023, I gave up scientific research because I could not find the value of research in cleaning data and creating conclusions, and could not make meaningful research anymore though I worked hard with some Pre-Phds.
 
+After sorting out my personal interest, I have done several internships. You can find my CV here: [Yi He's Curriculum Vitae](../assets/Yi_He_CV.pdf).
+
 I am an optimistic girl. My mbti is infp. My hobbies include word puzzles, watching TV series and movies. Welcome to contact me!
+
+[Email](mailto:hey1@ruc.edu.cn) / [Wechat:heyhey1hey2]
