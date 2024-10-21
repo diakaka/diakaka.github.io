@@ -21,7 +21,7 @@ repository               : "diakaka.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_9736.JPG"
+  avatar           : "homepage.jpg"
   name             : "Yi (Ella) He"
   pronouns         : # example: "she/her"  
   bio              : "Dream slow"
@@ -31,7 +31,7 @@ author:
 
   # Social media
   instagram        : "disheycard"
-  linkedin         : "Yi (Ella) He"
+  linkedin         : "Ella He"
   weibo            : "流浪香槟想成为小狗的妈妈"
 
 # Publication Category - The following the list of publication categories and their headings
