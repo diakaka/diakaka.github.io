@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<font size=3>Education</font>
 ======
 * Master of Finance, in Guanghua School of Management, Peking University, 2027 (expected)
 * B.Ec. in Financial Engineering, Renmin University of China, 2025 (expected)
@@ -17,9 +17,10 @@ Education
 
 <br>
 
-Internships
+<font size=3>Internships</font>
 ======
 **<span style="color:blue">Alibaba International Digital Commerce Group</span>**
+
 _Strategy Intern, July 2024 – November 2024_
 * E-commerce segment: Studied the European retail market and the status of major players, and summarized the key areas of AliExpress’s development. Tracked sales and traffic data of major competitors like Temu & Shein.
 * AI segment: Studied AI search product, the development prospects and current players through data collection, user
@@ -27,6 +28,7 @@ interviews and products experiences. Explored possible ways of AI commercial rea
 
 
 **<span style="color:blue">CICC Capital Management (CCM)</span>**
+
 _PE investment Intern, February 2024 – June 2024_
 * Fund raising and investment: Participated in the project report of an FPGA project; Wrote a preliminary analysis report
 of a new energy off-highway mining car electric drive project, analyzed company profile, industry opportunities and gave
@@ -44,6 +46,7 @@ company (ZKH).
 
 
 **<span style="color:blue">Founder Securities Research Department</span>**
+
 _Research Intern, July 2023 - October 2023:_
 * Report output: followed up data performance of beauty cosmetics company Proya; summarized strategies of it to break
 through development ceiling, which concludes carrying out brand matrix, marking overseas leaders, new growth curve brought
@@ -53,13 +56,14 @@ industrial chain of fan economy is forming a mature business model with multiple
 consolidation of fan organizations.
 
 **<span style="color:blue">Guotai Junan Securities Research Department</span>**
+
 _Research Intern, May 2023 - July 2023_ 
 * Research support: Tracked the dynamics of commercial banks in China and analyzed the financial data of them; Wrote an
 initial coverage report for Chongqing Rural Commercial Bank under the guidance of the analyst
 
 <br>
 
-Projects
+<font size=3>Projects</font>
 =======
 * Working Paper - Does Media Attention Curb or Facilitate Insider Sales by Executives?: Attended for PKU economics
 school’s forum. Based on textual analysis of financial news, examined impacts of media attention on stock reduction.
@@ -73,7 +77,7 @@ of the beauty care industry, and put forward the hidden worries of AI applicatio
 
 <br>
 
-Professional Skills and Others
+<font size=3>Professional Skills and Others</font>
 ======
 * **Languages**: CET-6 (664/710)
 * **Skills**: Python, Wind, iFind, Capital IQ, Bloomberg, SQL, Tableau
