@@ -38,6 +38,7 @@ highlights of reserve projects.
 indicators.
 
 **<span style="color:blue">CICC Research Department</span>**
+
 _Research Intern, November 2023 - February 2024_
 * Software segment: completed the initial coverage report of Beisen, summarized the company’s overview, industry
 development, advantages and growth strategies; completed the initial coverage report of an industrial Internet platform
