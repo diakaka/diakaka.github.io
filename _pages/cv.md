@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<font size=3>Education</font>
+Education
 ======
 * Master of Finance, in Guanghua School of Management, Peking University, 2027 (expected)
 * B.Ec. in Financial Engineering, Renmin University of China, 2025 (expected)
@@ -17,7 +17,7 @@ redirect_from:
 
 <br>
 
-<font size=3>Internships</font>
+Internships
 ======
 **<span style="color:blue">Alibaba International Digital Commerce Group</span>**
 
@@ -63,7 +63,7 @@ initial coverage report for Chongqing Rural Commercial Bank under the guidance o
 
 <br>
 
-<font size=3>Projects</font>
+Projects
 =======
 * Working Paper - Does Media Attention Curb or Facilitate Insider Sales by Executives?: Attended for PKU economics
 school’s forum. Based on textual analysis of financial news, examined impacts of media attention on stock reduction.
@@ -77,7 +77,7 @@ of the beauty care industry, and put forward the hidden worries of AI applicatio
 
 <br>
 
-<font size=3>Professional Skills and Others</font>
+Professional Skills and Others
 ======
 * **Languages**: CET-6 (664/710)
 * **Skills**: Python, Wind, iFind, Capital IQ, Bloomberg, SQL, Tableau
